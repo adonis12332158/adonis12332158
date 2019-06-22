@@ -1,16 +1,22 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: Hakkımda
+permalink: hakkimda
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Ben **BURAK BOZTEKE**. 8 Şubat 1999 tarihinde Adana'da dünyaya geldim. Doğuştan görme engelliyim. Yaklaşık 14 yaşına kadar ortalama bir görme seviyesinde olduğum için çocukluğumun biraz hareketli geçtiğini söyleyebilirim.
+İlk ve orta okul öğrenimime 11 yaşında, **OĞUZ KAĞAN KÖKSAL GÖRME ENGELLİLER İLK VE ORTA OKUL**'unda başladım.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+Şu anda da lise öğrenimime **ADANA ÇUKUROVA GÜZEL SANATLAR ANADOLU LİSESİ MÜZİK BÖLÜM**'ünde yatılı olarak devam ediyorum.
 
-What else do you need?
+## Nelerle uğraşırım?
 
-### my history
+Her insan gibi kitap okumayı, film izlemeği, dolaşmayı çok severim.
+Ancak benim asıl tutkum müzik.
+Çünkü bu benim için hem bir aşk, hem de bir gelir kaynağı.
+Ki zaten ben asıl işimin aranjörlük olduğuna inanıyorum. Şarkı söylemek pek bana göre değil ancak arada sırada [Youtube](https://www.youtube.com/channel/UCBEqQ9YawJF74VkDdcToOcQ) kanalımda cover çalışmalar ve yapmış olduğum besteleri paylaşıyorum.
+Hobi olarak da yazılımla uğraşırım. Teknolojiyi karıştırmaktan acaip keyif alırım.
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+## Bu sitedeki amacım nedir?
+
+Elimden geldiğince bilgi aktarmanın yanı sıra güncel konularla da ilgili paylaşımlarda bulunmak için böyle bir site oluşturdum.
