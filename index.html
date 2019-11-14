@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Ana Sayfa
-subtitle: Eğer hayatın kitabını okuyorsanız, bir kitap ayracı koyun ve bir yandan da buradaki yazıları okumaya başlayın
+subtitle: Kendime ait yazılarımı paylaşacağım kişisel blog sitemdir. Yazılarıma yorumlarınızla katkıda bulunabilirsiniz.
 use-site-title: false
 ---
 
@@ -19,8 +19,8 @@ use-site-title: false
     </a>
 
     <p class="post-meta">
-      {{ post.date | date: "%d.%m.%Y" }} tarihinde yazıldı
-    </p>
+      {{ post.date | date: "%d.%m.%Y" }} tarihinde <a href="{{ post.yazar.link }}"> {{ post.yazar.ad }} </a> tarafından yazıldı.
+    	</p>
 
     <div class="post-entry-container">
       {% if post.image %}

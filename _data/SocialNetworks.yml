@@ -10,7 +10,12 @@ facebook:
   name: "Facebook"
   baseURL: "https://www.facebook.com/"
   icon: "fa-facebook"
-
+  
+whatsapp:
+  name: "WhatsApp"
+  baseURL: "https://www.whatsapp.com/"
+  icon: "fa-whatsapp"
+  
 github:
   name: "GitHub"
   baseURL: "https://github.com/"
