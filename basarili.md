@@ -6,4 +6,4 @@ layout: minimal
 
 # Tebrikler
 
-Mesajınız bana ulaştı. En kısa zamanda sizinle iletişim kurabilirim. Şimdi [Ana sayfa](http://burakbozteke.tk/)'ya dönebilirsiniz.
+Mesajınız bana ulaştı. En kısa zamanda sizinle iletişim kurabilirim. Şimdi [Ana sayfa](http://sametalim.cf/)'ye dönebilirsiniz.
