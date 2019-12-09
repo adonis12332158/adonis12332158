@@ -7,10 +7,10 @@ yazar:
 ---
 
 ## bendeki bu dert
-
-bir yoldan geçtim, karanlık ve uzun,
-dayandım menzile, sanki dağ gibi.
-Bendeki bu dert, örümcekte hüzün,
-çaresizliğe atılan ağ gibi.
-
+  
+bir yoldan geçtim, karanlık ve uzun,  
+dayandım menzile, sanki dağ gibi.  
+Bendeki bu dert, örümcekte hüzün,  
+çaresizliğe atılan ağ gibi.  
+  
 -samet alim
