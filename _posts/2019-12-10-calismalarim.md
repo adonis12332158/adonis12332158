@@ -11,8 +11,7 @@ yazar:
 herkese merhabalar. youtube'da bulunan tüm çalışmalarım burada. beğenip-paylaşarak destek olabilirsiniz.  
 
 ## kendi seslendirdiğim şiirler
-samet alim - yanıyor  
-https://www.youtube.com/watch?v=X0YQeufOK-U  
+[samet alim - yanıyor](https://www.youtube.com/watch?v=X0YQeufOK-U)  
 samet alim - sen olsan yeter  
 https://www.youtube.com/watch?v=4c9v3a3lXBE  
 samet alim - git  
